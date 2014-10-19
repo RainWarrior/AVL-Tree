@@ -1,0 +1,27 @@
+add
+vasya 55555 1
+add 
+petya 66666 2
+madd 11
+test01 01 1
+test02 02 1
+test03 03 1
+test04 04 1
+test05 05 1
+test06 06 1
+test16 06 1
+test16 07 1
+test07 07 1
+test08 08 1
+test09 09 1
+test10 10 1
+get name vasya
+get phone 66666
+get phone 55555
+get name petya
+get group 1
+get group 2
+ping
+del name test16
+del name test16
+ping

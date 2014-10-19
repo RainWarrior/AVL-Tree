@@ -1,0 +1,4 @@
+insert (Student, 1234567, 208);
+insert (Student, 7654321, 208);
+insert (Student, 1234567, 209);
+insert (Student, 7654321, 209);

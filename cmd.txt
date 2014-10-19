@@ -1,0 +1,4 @@
+ping;
+insert (Student, 123123123, 7);
+insert (Student, 123123124, 7);
+insert (Student, 123123125, 7);
